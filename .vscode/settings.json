@@ -4,7 +4,7 @@
     "editor.fontSize": 18,
     "workbench.colorTheme": "Horizon",
     "editor.minimap.scale": 1,
-    "window.zoomLevel": 1.2,
+    "window.zoomLevel": 1,
     "markdown.marp.themes": [
         "./themes/my-theme.css",
         "./themes/colors.css",
